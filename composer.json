@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "php": "^7.1.3",
+    "php": "^7.0|^8.0",
     "ext-json": "*",
     "ignitekit/laravel-container": "^1.0",
     "ignitekit/laravel-contracts": "^1.0",
