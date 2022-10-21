@@ -1,0 +1,28 @@
+<?php
+
+use IgniteKit\Backports\Support\Facades\Schema;
+use IgniteKit\Backports\Database\Schema\Blueprint;
+use IgniteKit\Backports\Database\Migrations\Migration;
+
+class DummyClass extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        //
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        //
+    }
+}
